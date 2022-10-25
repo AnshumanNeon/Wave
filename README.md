@@ -32,3 +32,8 @@ Wave.Draw(element, container);
 This will show "Hello My Friend foo" on the page.
 
 You'll notice that we used an HTML-like syntax called JSX. Which is quite similar to that of Reactjs. Waves' original inspiration was React and hence we have JSX, but that doesn't means that Wavejs is a "React clone". Just like React, JSX is not required, but it makes code more readable.
+
+## Future
+
+* Soon Class-based components will be added.
+* 
